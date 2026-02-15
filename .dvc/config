@@ -1,0 +1,4 @@
+[core]
+    remote = dvcstoree
+['remote "dvcstoree"']
+    url = s3://mlops-work-1301
